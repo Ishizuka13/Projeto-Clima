@@ -1,2 +1,2 @@
 # Projeto Clima
-Utilizando API, fazendo requisições e apresentando os dados.
+Utilizando uma API, fazendo requisições e apresentando os dados.
